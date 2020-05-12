@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lotery_drawer-crypt_online",
+    name="lotery-drawer",
     version="1.0.0",
     author="Crypt Online",
     author_email="admin@hxrobot.io",

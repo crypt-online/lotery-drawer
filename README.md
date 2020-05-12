@@ -9,7 +9,7 @@ The draw is random but will always return the same result when given the same lo
 ### Installation
 
   * Python >=3.6 is required to run this program
-  * Install the package by running **pip3 install lotery-drawer --user**
+  * Install the package by running : **pip install lotery-drawer --user**
 
 ### Usage
 
@@ -50,7 +50,7 @@ Here an example of the lotery data json :
   * **prizes**: A list of the prizes of the lotery. Each prize can have one or more winning tickets (**nb**) and have a name (**name**)
   * **tickets**: A dict of the tickets at the end of the lotery. Each element of the dict is a player, the number associated is the number of tickets in his possession.
 
-The tool will draw as winning tickets as there is prizes, and return an array containing the usernames and the prize won.
+The tool will draw as winning tickets as there is prizes, and return an array containing the usernames and the prizes won.
 Note that if a ticket is won, it is removed from the tickets list for the next prizes.
 
 Here an exemple of the result when using the file **config/dataLotery.json** in the repository :
