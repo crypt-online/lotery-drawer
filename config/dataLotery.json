@@ -1,0 +1,16 @@
+{
+  "endTimestamp": 1589289392,
+  "prizes": [
+    {"name":  "1000 HXRO", "nb":  1},
+    {"name":  "500 HXRO", "nb":  1},
+    {"name":  "200 HXRO", "nb":  5},
+    {"name":  "100 HXRO", "nb":  10}
+  ],
+  "tickets": {
+    "player_a": 10,
+    "player_b": 20,
+    "player_c": 30,
+    "player_d": 40,
+    "player_e": 150
+  }
+}
