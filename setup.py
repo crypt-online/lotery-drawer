@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lotery-drawer",
-    version="1.0.0",
+    version="1.0.1",
     author="Crypt Online",
     author_email="admin@hxrobot.io",
     description="A simple, proven and non-falsifiable lottery draw tool",
