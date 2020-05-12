@@ -56,22 +56,22 @@ Note that if a ticket is won, it is removed from the tickets list for the next p
 Here an exemple of the result when using the file **config/dataLotery.json** in the repository :
 ```json
 [
-  {'prizeName': '1000 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '500 HXRO', 'username': 'player_a'}, 
-  {'prizeName': '200 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '200 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '200 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '200 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '200 HXRO', 'username': 'player_d'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_d'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_d'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_d'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_b'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_e'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_c'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_c'}, 
-  {'prizeName': '100 HXRO', 'username': 'player_d'}
+  {"prizeName": "1000 HXRO", "username": "player_e"}, 
+  {"prizeName": "500 HXRO", "username": "player_a"}, 
+  {"prizeName": "200 HXRO", "username": "player_e"}, 
+  {"prizeName": "200 HXRO", "username": "player_e"}, 
+  {"prizeName": "200 HXRO", "username": "player_e"}, 
+  {"prizeName": "200 HXRO", "username": "player_e"}, 
+  {"prizeName": "200 HXRO", "username": "player_d"}, 
+  {"prizeName": "100 HXRO", "username": "player_d"}, 
+  {"prizeName": "100 HXRO", "username": "player_e"}, 
+  {"prizeName": "100 HXRO", "username": "player_d"}, 
+  {"prizeName": "100 HXRO", "username": "player_d"}, 
+  {"prizeName": "100 HXRO", "username": "player_b"}, 
+  {"prizeName": "100 HXRO", "username": "player_e"}, 
+  {"prizeName": "100 HXRO", "username": "player_e"}, 
+  {"prizeName": "100 HXRO", "username": "player_c"}, 
+  {"prizeName": "100 HXRO", "username": "player_c"}, 
+  {"prizeName": "100 HXRO", "username": "player_d"}
  ]
 ```
