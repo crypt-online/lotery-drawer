@@ -24,6 +24,7 @@ class Drawer:
 				self.tickets.append(user)
 
 		random.seed(compute3DRandomSeed(-1, self.nbUsers * len(self.tickets), self.endTimestamp))
+		self.tickets.sort()
 		random.shuffle(self.tickets)
 
 		for i in range(len(self.prizes)):
